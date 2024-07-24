@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>uptime career Nexus Repository</name>
-	      <url>http://13.201.6.172:8081/repository/flipcart-release/</url>
+	      <url>http://13.201.6.172:8081/repository/flipcart-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Uptime Career Snapshot Nexus Repository </name>
-	      <url>http://13.201.6.172:8081/repository/flipcart-snapshot/</url>
+	      <url>http://13.201.6.172:8081/repository/flipcart-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
